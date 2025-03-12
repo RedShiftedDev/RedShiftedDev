@@ -17,9 +17,18 @@ I’m passionate about computational physics, where I explore numerical simulati
   +	If you’re into high-performance numerical computing, physics simulations, or C++ optimizations.
   +	In Machine Learning Developing a model (CNN, NN, Forest Tree, SVM)
 
-- Tech Stack:
-	+ Languages: C/C++, Python (SciPy, NumPy, Matplotlib), POVRay, LaTex, MathLab, Bash, Julia, Java.
-	  -	Frameworks & Tools: Wolfarm Mathematica, MATLAB, Blender, ROOT, SFML, OpenMP, PyQt, OpenGL v4.1.
-	  -	Platforms: macOS, Linux, Windows.
+- Knowledge Stack:
+	+ Languages:
+		- C/C++
+  		- Python (SciPy, NumPy, Matplotlib)
+    		- POVRay
+	        - LaTex
+	        - MathLab
+	        - Julia (- [x] Image Processing)
+	        - Java (Created a MazeGame with a Game Engine)
+           	- Bash (basics)
+	+ Frameworks & Tools: Wolfarm Mathematica, MATLAB, Blender, ROOT, SFML, OpenMP, PyQt, OpenGL v4.1.
+	+ Data Structure and Algorithms.
+	+ Platforms: macOS, Linux.
 
 > *"Redshift isn’t just for galaxies—it’s a mindset for always moving forward."* 
