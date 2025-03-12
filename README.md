@@ -24,8 +24,8 @@ I’m passionate about computational physics, where I explore numerical simulati
     		- POVRay
 	        - LaTex
 	        - MathLab
-	        - Julia (- [x] Image Processing)
-	        - Java (Created a MazeGame with a Game Engine)
+	        - Julia (Image Processing)
+	        - Java (Created a MazeGame without a Game Engine)
            	- Bash (basics)
 	+ Frameworks & Tools: Wolfarm Mathematica, MATLAB, Blender, ROOT, SFML, OpenMP, PyQt, OpenGL v4.1.
 	+ Data Structure and Algorithms.
