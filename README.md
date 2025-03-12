@@ -3,9 +3,9 @@ Hey, I’m @RedShiftedDev
 I’m passionate about computational physics, where I explore numerical simulations, high-performance computing, and data-driven models to solve real-world physics problems.
 
 - What I’m working on:
-	•	Optimized matrix multiplication using OpenMP, and tiling techniques for maximum performance
-	•	A C++ plotting library inspired by Matplotlib, focusing on efficiency and flexibility
-	•	Various simulation projects, including orbital mechanics and physics-based modeling
+  •	Optimized matrix multiplication using OpenMP, and tiling techniques for maximum performance
+  •	A C++ plotting library inspired by Matplotlib, focusing on efficiency and flexibility
+  •	Various simulation projects, including orbital mechanics and physics-based modeling
 
 - Currently Learning:
 	•	Advanced integration algorithms and their computational implementations
