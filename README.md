@@ -15,7 +15,7 @@ I’m passionate about computational physics, where I explore numerical simulati
 
 - Looking to collaborate on:
   +	If you’re into high-performance numerical computing, physics simulations, or C++ optimizations.
-  +	Machine Learning 
+  +	In Machine Learning Developing a model (CNN, NN, Forest Tree, SVM)
 
 - Tech Stack:
 	+ Languages: C/C++, Python (SciPy, NumPy, Matplotlib), POVRay, LaTex, MathLab, Bash, Julia, Java.
