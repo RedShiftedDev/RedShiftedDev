@@ -7,7 +7,7 @@ I’m passionate about computational physics, where I explore numerical simulati
   +	A C++ plotting library inspired by Matplotlib, focusing on efficiency and flexibility
   +	Developing my own Machine Learning Library/API in modern C++ (20/23).
   +	Various simulation projects, including orbital mechanics and physics-based modeling
-  +	Handwritten Digit Classifier: Trained a model from scratch without TensorFlow, using only fundamental ML concepts, using my own Library in c++
+  +	Handwritten Digit Classifier: Developing a model from scratch without TensorFlow, using only fundamental ML concepts, using my own Library in c++
 
 - Currently Learning:
   +	Advanced integration algorithms and their computational implementations.
