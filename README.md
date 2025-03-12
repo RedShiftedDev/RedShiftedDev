@@ -22,4 +22,4 @@ I’m passionate about computational physics, where I explore numerical simulati
 	  -	Frameworks & Tools: Wolfarm Mathematica, MATLAB, Blender, ROOT, SFML, OpenMP, PyQt, OpenGL v4.1.
 	  -	Platforms: macOS, Linux, Windows.
 
-*"Redshift isn’t just for galaxies—it’s a mindset for always moving forward."* 
+> *"Redshift isn’t just for galaxies—it’s a mindset for always moving forward."* 
